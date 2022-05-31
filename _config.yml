@@ -283,6 +283,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+sitemap:
+    path: sitemap.xml
 
 # Archives
 #  Type
