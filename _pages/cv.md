@@ -11,32 +11,29 @@ redirect_from:
 
 Education
 ------
-* B.S.: Dpt. Mathematics and Information Engineering, the Chinese University of Hong Kong, 2019-2023
-* Exchange: Dpt. Applied Science and Engineering, University of Toronto, Winter 2022
+* **B.S.** Mathematics and Information Engineering, the Chinese University of Hong Kong, 2019-2023
+* **Term Exchange** Applied Science and Engineering, University of Toronto, Winter 2022
 
 
 Research experience
 ------
-  * June 2020 - August 2020
+* June 2020 - August 2020
   * Research Field: Information Theory and Coding Theory
-  * The Chinese University of Hong Kong
-  * Topic: The extension of Zyablov Bound to the general adversarial various channel.
-  * Supervisor: Professor Sidharth Jaggi from the Department of Information Engineering
+  * Supervisor: Professor Sidharth Jaggi from the Department of Information Engineering, The Chinese University of Hong Kong
+  * Focus: The extension of Zyablov Bound to the general adversarial various channel.
 
 
 * June 2021 - August 2021
   * Research Field: Bioinformatics and Artificial Intelligence
-  * The Chinese University of Hong Kong
+  * Supervisor: Professor Yu Li from the Department of Computer Science and Engineering, The Chinese University of Hong Kong
   * Focus: Single-cell Multi-omics Integration with Contrastive Self-supervised Deep Learning (2021 Best Project Award)
-  * Supervisor: Professor Yu Li from the Department of Computer Science and Engineering
   * [Presentation Poster](https://drive.google.com/file/d/1lObok7GTjQ4F6dmN3PEsI3vsfzMl-Z16/view?usp=sharing)
 
 
 * May 2022 - Present
   * Reserach Field: Optimization
-  * University of California, Davis
+  * Supervisor: Professor Shiqian Ma from the Department of Mathematics, University of California, Davis
   * Focus: Solve unbalaned optimal transport with projection robust wasserstein distance ans Sinkhorn algorithm
-  * Supervisor: Professor Shiqian Ma from the Department of Mathematics
 
 
 Honors, awards and scholarships

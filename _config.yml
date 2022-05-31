@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Tingyang YU (Yist)"
-  avatar           : "profile.png"
-  bio              : "Undergraduate Student at the Chinese University of Hong Kong. Major in Mathematics and Information Engineering"
+  avatar           : "prolife.jpg"
+  bio              : "Undergraduate Student at the Chinese University of Hong Kong. 
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,7 +100,7 @@ author:
   github           : "YistYU"
   google_plus      :
   keybase          :
-  instagram        : "YistYU"
+  instagram        : "yistyu_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
