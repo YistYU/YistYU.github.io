@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "Tingyang YU (Yist)'s Personal Homepage"
-title: "About me"
+title: "Tingyang YU (Yist)'s Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
