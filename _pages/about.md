@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a final-year undergraduate student at **the Chinese University of Hong Kong**, pursuing a major in **Mathematics and Information Engineering**. My current research interest lies in the **theory and application about general graph structure**, like graph learning problem, graph searching problem and graph nerual network. I love the intuitivity of graph, randomness, math and coding. Also, I enjoy solving  puzzles with learnt knowledges and applying my ideas to the real life. 
+I am a final-year undergraduate student at **the Chinese University of Hong Kong**, pursuing a major in **Mathematics and Information Engineering**. My current research interest lies in the **theory and application about general graph structure**, like graph learning problem, graph searching problem and graph nerual network. I love the intuitivity of geometry structure, randomness, math and coding. Also, I enjoy solving  puzzles with learnt knowledges and applying my ideas to the real life. 
 
 **Passion on creativity is the driving force of my research**.
 
