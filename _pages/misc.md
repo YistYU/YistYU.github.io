@@ -2,6 +2,7 @@
 layout: archive
 permalink: /misc/
 title: "Misc."
+sitemap: true
 author_profile: true
 ---
 
