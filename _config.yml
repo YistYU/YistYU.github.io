@@ -16,9 +16,9 @@
 
 github                   : [metadata]
 locale                   : "en-US"
-title                 i  : "Tingyang YU (Yist)"
+title                    : "Tingyang YU (Yist)"
 title_separator          : "-"
-#name                     : &name "Tingyang YU (Yist)"
+name                     : &name "Tingyang YU (Yist)"
 description              : &description "Undergraduate Student at the Chinese University of Hong Kong"
 url                      : https://yistyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
