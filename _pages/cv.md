@@ -26,14 +26,13 @@ Research experience
 * June 2021 - August 2021
   * Research Field: Bioinformatics and Artificial Intelligence
   * Supervisor: Professor Yu Li from the Department of Computer Science and Engineering, The Chinese University of Hong Kong
-  * Focus: Single-cell Multi-omics Integration with Contrastive Self-supervised Deep Learning (2021 Best Project Award)
-  * [Presentation Poster](https://drive.google.com/file/d/1lObok7GTjQ4F6dmN3PEsI3vsfzMl-Z16/view?usp=sharing)
+  * Focus: Single-cell Multi-omics Integration with Contrastive Self-supervised Deep Learning (2021 Best Project Award) [Presentation Poster](https://drive.google.com/file/d/1lObok7GTjQ4F6dmN3PEsI3vsfzMl-Z16/view?usp=sharing)
 
 
 * May 2022 - Present
   * Reserach Field: Optimization
   * Supervisor: Professor Shiqian Ma from the Department of Mathematics, University of California, Davis
-  * Focus: Solve unbalaned optimal transport with projection robust wasserstein distance ans Sinkhorn algorithm
+  * Focus: Solve unbalaned optimal transport with projection robust wasserstein distance ans Sinkhorn algorithm [Project Reprot](https://drive.google.com/drive/u/0/search?q=rgas)
 
 
 Honors, awards and scholarships
@@ -56,29 +55,26 @@ Publications
 
 Leadership
 ------
-* Captain of Mandarin Debate Team of CUHK, April, 2020 - May, 2021
-  * As the captain, she coordinates and manages the daily affairs of the team with a total of nearly 120 members. She is also responsible for the selection, training, and outing of competitions.
-  * She led the team to win multiple international competitions in an excellent ranking. For example, the 2020 National Taiwan University Yi'en Cup Quarter Finals, the Second Place of North American Mandarin Debate Summer League 3.0 runner-up (32 teams), the Fourth Place in the KPMG Seventh Corporate Case Analysis Competition, etc.
+* Mandarin Debate Team of CUHK, April, 2020 - May, 2021
+  * Position: Captain
+  * Coordinated and managed the daily affairs of the team with a total of nearly 120 members. 
+  * Led the team to win multiple international competitions in an excellent ranking, i.e., the 2020 National Taiwan University Yi'en Cup Quarter Finals, the Second Place of North American Mandarin Debate Summer League 3.0 runner-up (32 teams), the Fourth Place in the KPMG Seventh Corporate Case Analysis Competition, etc.
 
 * Student mentor of Morningside College, October, 2021 - Present
   * Selected as the mentor for junior fellows.
-  * Participate in 5 sessions training and give suggestion to mentees from Department of Science and Engineering
+  * Participated in 5 sessions training and give suggestion to mentees from Department of Science and Engineering
 
 Extra-curricular Competitions
 ------
 * The 1st FENGYE Cup Virtual Chinese Debating, Mar. 2020
-  * Position: Captain
-  * Lead the team to the Winner of the competition (24 teams).
+  * Led the team to the Winner of the competition (24 teams).
   * Won "Best Debator" Award for two times.
 
 * 2020 HANGZHOU Mandarin Debate Grand Prix, Oct. 2020
-  * Position: Captain
-  * Win the "Best Debator" Award three times and finally led the team to the top 16 (out of 256 teams).
+  * Won the "Best Debator" Award three times and finally led the team to the top 16 (out of 256 teams).
   * The only candidate for the``Best Debater in the Whole Competition'' Award in Hong Kong area.
-  * HANGZHOU Debate Grand Prix focuses its perspective on the rights and boundaries of technology companies. Therefore, during the 60-day competition period, we carefully studied the nearly 10,000-character user agreements of various technology giants, and read the binding documents of domestic and foreign technology companies, such as the EU’s "General Data Protection Regulations".
 
 * The 13th HUAXIA Cup International Chinese Debating, Sep. 2020
-  * Position: Captain
   * The only one who won the "Best Debator" Award of the team.
 
 
@@ -88,11 +84,12 @@ Community contribution
 * "WOMEN US" Girls Empowerment, Feb. 2021 - Present
   * Position: Founder and Contributor
   * The "Women US" charity project is a self-empowerment project for female high school girls initiated by five students from the Chinese University of Hong Kong. This project is divided into three steps: fundraising, donation and feedback-collection visits, as well as online and offline channels.
-  * Lead to develop the project-matching mini-program named “Women US” on WeChat.
+  * Led to develop the project-matching mini-program named “Women US” on WeChat.
 
 * SANGCHU Marmots Youth Hostel at Gannan Tibetan Autonomous Prefecture
   * Position: Volunteer
-  * Duty: Work as a volunteer at the SANGCHU Marmots Environmental Youth School in Gannan Tibetan Autonomous Prefecture for one month. In addition to forging a deep friendship with local Tibetan families, she also participated in marmot living-environment protection, local cultural dissemination and environmental protection activities.
+  * Work as a volunteer at the SANGCHU Marmots Environmental Youth School in Gannan Tibetan Autonomous Prefecture for one month.
+  * Participated in marmot living-environment protection, local cultural dissemination and environmental protection activities.
 
 
 
