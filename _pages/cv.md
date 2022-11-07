@@ -106,6 +106,6 @@ Community contribution
 
 Skills
 ------
-* Computer Language: Python, C/C#, Pytorch, Tensorflow, CUDA, Java, R, MATLAB, MySQL, LINUX and PHP.
+* Computer Language: Python, C/C#, Pytorch, Tensorflow, CUDA, Java, R, MATLAB, LINUX and PHP.
 * Language: English(Speaking 7.5, Overall 7.5), Mandarin(Native), Cantonese(Fluent).
 
