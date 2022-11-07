@@ -12,7 +12,8 @@ redirect_from:
 
 Education
 ------
-* **Bachelor of Science** in Mathematics and Information Engineering, the Chinese University of Hong Kong, Sep. 2019- Sep. 2023 (expected)
+* **Bachelor of Science** in Mathematics and Information Engineering
+  * The Chinese University of Hong Kong (CUHK), Sep. 2019- Sep. 2023 (expected)
   * Cumulative GPA: 3.737/4.000
 * **Term Exchange** Faculty of Applied Science and Engineering, University of Toronto, Winter 2022
 * **Relevant Courses**
