@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /misc/
-title: "Misc."
+title: "Miscellaneous"
 sitemap: true
 author_profile: true
 ---

@@ -25,26 +25,22 @@ Education
 Research experience
 ------
 * **Expressive Equivariant Subgraph Aggregation Network** (Sep. 2022 - Present)
-  * Reserach Field: Graph Neural Network
   * Final Year Project Supervised by Professor Irwin King (CUHK).
   * Proposed a new sampling strategy implemented in Python for equivariant subgraph aggregation network (ESAN) to improve the expressive power of GNN. The strategy is based on WL-similarity which goes beyond the 1-WL test for message-passing graph neural networks. 
 
 * **Projection Robust Unbalanced Optimal Transport** (Feb. 2022 - Present)
-  * Reserach Field: Optimization
   * Research Assistant to Professor Ma Shiqian (University of California, Davis)
   * Proposed a novel unbalanced optimal transport (UOT) formulation that has the potential to alleviate the curse of dimensionality.
   * Proposed two algorithms for solving this problem and analyze their complexity for obtaining an $\epsilon$-stationary point. Numerical experiments on both synthetic and real datasets are conducted to demonstrate the advantages of our new UOT formulation in high-dimensional cases.
 
 * **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June. 2021 -- Present)
-  * Research field: Bioinformatics, Artificial Intelligence. 
   * Research Assistant to Professor Li Yu (CUHK)
   * Presented **scMinerva**, an unsupervised framework for single-cell multi-omics integration. We propose a novel random walk strategy **omics2vec** that can flexibly "jump" among different omics and utilize information from the informative omics.
   * Conducted extensive experiments to evaluate the proposed method. scMinerva achieves superior classification performance among the seven state-of-the-art unsupervised methods and improves the classification accuracy by 7% on average.
-  * Best Project Award for Summer Research Internship of CUHK, 2020-21 (Top 10% out of 97 students and 46 projects).
+  * **Best Project Award for Summer Research Internship of CUHK, 2020-21**.
 
 
 * **Zyablov Bound in General Adversarial Various Channel** (June. 2020 -- Sep. 2020)
-  * Research Field: Information Theory, Coding Theory.
   * Research Assistant to Professor Sidharth Jaggi (CUHK).
   * Extend Zyablov Bound which is based on concetenated code to the general adversarial various channel.
 
