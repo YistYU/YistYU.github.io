@@ -15,10 +15,10 @@ Education
 * **Bachelor of Science** in Mathematics and Information Engineering
   * The Chinese University of Hong Kong (CUHK), Sep. 2019- Sep. 2023 (expected)
   * Cumulative GPA: 3.737/4.000
-* **Term Exchange** Faculty of Applied Science and Engineering, University of Toronto, Winter 2022
+* **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT)
 * **Relevant Courses:**
-  * Computer Science and Information Science: Data Structure, Signals and Systems, Introduction to AI, Network Coding Theory (Grad Level), Operating System, Design and Analysis of Algorithms. 
-  * Mathematics: Linear Algebra, Discrete Mathematics, Mathematical Analysis, Probability, Optimization, Ordinary Differential Equation, Complex Analysis. 
+  * Computer Science and Information Science: Data Structure, Introduction to AI (MIE369, UoT), Design and Analysis of Algorithms (ECE345, UoT), Signals and Systems, Network Coding Theory (Grad Level), Computer Networks.  
+  * Mathematics: Linear Algebra, Mathematics Analysis, Differentiation Analysis, Probability Theory, Complex Variables with Applications, Ordinary Differential Equation, Discrete Mathematics, Algebraic Structures, Stochastic Process.
 * Ranked **Top 0.4%** among 163,000 science students} in the National College Entrance Exam.
 
 
@@ -30,14 +30,14 @@ Research experience
 
 * **Projection Robust Unbalanced Optimal Transport** (Feb. 2022 - Present)
   * Research Assistant to Professor Ma Shiqian (University of California, Davis)
-  * Proposed a novel unbalanced optimal transport (UOT) formulation that has the potential to alleviate the curse of dimensionality.
+  * Proposed the projection robust unbalanced optimal transport formulation that has the potential to alleviate the curse of dimensionality for computing the Wasserstein distance.
   * Proposed two algorithms for solving this problem and analyze their complexity for obtaining an $\epsilon$-stationary point. Numerical experiments on both synthetic and real datasets are conducted to demonstrate the advantages of our new UOT formulation in high-dimensional cases.
 
 * **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June. 2021 -- Present)
   * Research Assistant to Professor Li Yu (CUHK)
   * Presented **scMinerva**, an unsupervised framework for single-cell multi-omics integration. We propose a novel random walk strategy **omics2vec** that can flexibly "jump" among different omics and utilize information from the informative omics.
   * Conducted extensive experiments to evaluate the proposed method. scMinerva achieves superior classification performance among the seven state-of-the-art unsupervised methods and improves the classification accuracy by 7% on average.
-  * **Best Project Award for Summer Research Internship of CUHK, 2020-21**.
+  * **Best Project Award for Summer Research Internship of CUHK, 2020-21 (Top 10% out of 97 students and 46 projects)**.
 
 
 * **Zyablov Bound in General Adversarial Various Channel** (June. 2020 -- Sep. 2020)
@@ -66,39 +66,33 @@ Publications
 
 Leadership
 ------
-* Mandarin Debate Team of CUHK (April, 2020 - May, 2021)
-  * Position: Captain
-  * Coordinated and managed the daily affairs of the team with a total of nearly 120 members. 
-  * Initiated the "2021 Freshman Mandarin Debate Competition-Examplar Tourname" for the first time. The competition had 55 registration teams and finalized 16 eligible teams at home and abroad, including University of Malaya, National University of Singapore, Xi'an Jiaotong University and etc. 
+* **Mandarin Debate Team of CUHK - Captain** (April, 2020 - May, 2021)
+  * As the captain, coordinates over 120 members and manages daily affairs. Be responsible for competition preparing, mock competition organizing, weekly training. As a member, read more than 20 relevant papers every week during the preparation period for quick-learning the field within one week.
+  * Organized two rounds recruitment interviews with more than 100 people. Coordinated people, time, places, documentation and selection. Dealt with emergency situations. 
 
-* Student Mentor of Morningside College (October, 2021 - Present)
-  * Selected as the mentor for junior fellows.
-  * Participated in 5 sessions training and give suggestion to mentees from Department of Science and Engineering
+* **2021 Exemplar Tournament Freshman Mandarin Debate Competition - Founder** (March, 2021 - May, 2021)
+   * Firstly founded the "Exemplar Tournament" Freshman Mandarin Debate Competition representing CUHK. The competition received more than 14,000HKD funding support from the Office of Student Affairs.
+   * Draw up the Tournament Regulations, supervise the 2-month competition process, select and communicate with the participating teams from more than 50 registered teams. Interview and train over 20 volunteers.
 
 Extra-curricular Competitions
 ------
-* The 1st FENGYE Cup Virtual Chinese Debating (Mar. 2020)
+* **The 1st FENGYE Cup Virtual Chinese Debating - Captain** (Mar. 2020)
   * Led the team to the Winner of the competition (24 teams).
   * Won "Best Debator" Award for two times.
 
-* 2020 HANGZHOU Mandarin Debate Grand Prix (Oct. 2020)
+* **2020 HANGZHOU Mandarin Debate Grand Prix - Captaion** (Oct. 2020)
   * Won the "Best Debator" Award three times and finally led the team to the top 16 (out of 256 teams).
-  * The only candidate for the``Best Debater in the Whole Competition'' Award in Hong Kong area.
-
-* The 13th HUAXIA Cup International Chinese Debating (Sep. 2020)
-  * The only one who won the "Best Debator" Award of the team.
+  * The only candidate for the``Best Debater in the Whole Competition'' Award in the Hong Kong area.
 
 
  
 Community contribution
 ------
-* "WOMEN US" Girls Empowerment (Feb. 2021 - Present)
-  * Position: Founder and Contributor
-  * The "Women US" charity project is a self-empowerment project for female high school girls initiated by five students from the Chinese University of Hong Kong. This project is divided into three steps: fundraising, donation and feedback-collection visits, as well as online and offline channels.
+* **"WOMEN US" Girl Empowerment Program - Founder** (Feb. 2021 - Present)
+  * The "Women US" Girl Empowerment program is a self-empowerment project for high school girls initiated by five students from the Chinese University of Hong Kong. This project is divided into three steps: fundraising, donation and feedback-collection visits, as well as online and offline channels.
   * Led to develop the project-matching mini-program named “Women US” on WeChat.
 
-* SANGCHU Marmots Youth Hostel at Gannan Tibetan Autonomous Prefecture (June, 2021 -- July, 2021)
-  * Position: Volunteer
+* **SANGCHU Marmots Youth Hostel at Gannan Tibetan Autonomous Prefecture - Volunteer** (June, 2021 -- July, 2021)
   * Worked as a volunteer at the SANGCHU Marmots Environmental Youth School in Gannan Tibetan Autonomous Prefecture for one month.
   * Participated in marmot living-environment protection, local cultural dissemination and environmental protection activities.
 
@@ -106,6 +100,7 @@ Community contribution
 
 Skills
 ------
-* Coding: Python, C/C#, Pytorch, Tensorflow, CUDA, Java, R, MATLAB, LINUX and PHP.
-* Language: English (Speaking 7.5, Overall 7.5), Mandarin (Native), Cantonese (Fluent).
+* **Language**: English (Speaking 7.5, Overall 7.5), Mandarin (Native), Cantonese (Fluent).
+* **Programming**:  Pytorch, Tensorflow, NetworkX, Pandas, Numpy, sklearn, Matlab, Java, C, C\#, R, bash.
+* **Tools**: LaTeX, Linux, Anaconda, Git, MongoDB, Docker.
 
