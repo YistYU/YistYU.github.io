@@ -10,5 +10,4 @@ author_profile: true
 * I watch modern dramas, movies, stage plays, musicals and band lives on a regular basis. They are also important parts of my life. Also, I love running marathon, swimming and bodybuilding. More specificly, I love all the acitivities that can make me physically stronger. 
 * I have always been a curious thinker in topics on gender studies, religious studies and literature. **I am always willing to contribute to the female community, LGBTQ+ community and animal protection activities. If there is something I can do, please always feel free to contact me**. 
 * My life purpose is to be a creator, an activist and a strong woman. 
-* "就让我自由选择，我愿意自己承担后果。"
 
