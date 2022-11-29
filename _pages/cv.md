@@ -59,14 +59,14 @@ PREPRINTS
 
 ACADEMIC AWARDS AND SCHOLARSHIPS
 ------
+* Charles K. Kao Exchange Scholarship (50,000 HKD), 2021-22;
+* IE Award for Academic Exchange (30,000 HKD), 2021-22;
+* Dean's List (**Top 10%**) of 2019-20, 2020-21;
+* Best Project Award for Summer Research Internship of CUHK of 2020-21 (**Top 10%**); 
 * ELITE Stream Scholarship (20,000 HKD) of 2019-20, 2020-21;
 * Morningside Admission Scholarship (12,000 HKD), 2019-20;
-* Dean's List (**Top 10%**) of 2019-20, 2020-21;
 * Morningside College Master's List of 2019-20, 2020-21;
 * Morningside Academic Scholarship (10,000HKD) 2020-21;
-* Best Project Award for Summer Research Internship of CUHK of 2020-21 (**Top 10%**); 
-* IE Award for Academic Exchange (30,000 HKD), 2021-22;
-* Charles K. Kao Exchange Scholarship (50,000 HKD), 2021-22;
 * Second Prize of Hua Xia Cup Mathematical Olympiad, 2018-19;
 * Second Prize in National Physics Competition for Senior High, 2018-19;
 * Second Prize in National Mathematics Competition for Senior High, 2018-19.
