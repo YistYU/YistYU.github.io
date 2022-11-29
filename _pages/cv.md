@@ -31,7 +31,7 @@ RESEARCH EXPERIENCE
 * **Expressive Equivariant Subgraph Aggregation Network** (Sep. 2022 - Present)
   * Final Year Project Supervised by Professor Irwin King (CUHK).
   * Proposed subgraph sampling strategies based on Weisfeiler-Lehman similarity and subtree kernel for equivariant subgraph aggregation network to improve the expressive power and the scalability of the network. 
-  * Conducted thorough experiments which showed that this efficient strategy outperformed the second best subgraph sampling strategy on graph classification up to 3\% on TU datasets. The draft of this work is progressing and will catch IJCAI 2023. \[[Thesis](https://YistYU.github.io/YistYU/files/FYP_thesis.pdf)\]
+  * Conducted thorough experiments which showed that this efficient strategy outperformed the second best subgraph sampling strategy on graph classification up to 3\% on TU datasets. The draft of this work is progressing and will catch IJCAI 2023. \[[Thesis](https://YistYU.github.io/files/FYP_thesis.pdf)\]
 
 * **Projection Robust Unbalanced Optimal Transport** (Feb. 2022 - Present)
   * Research Assistant to Professor Ma Shiqian (University of California, Davis)
