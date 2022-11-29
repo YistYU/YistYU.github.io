@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://YistYU.github.io/YistYU/files/CV.pdf)
+[Download CV here](https://YistYU.github.io/files/CV.pdf)
 
 
 EDUCATION
