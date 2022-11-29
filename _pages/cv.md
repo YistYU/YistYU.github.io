@@ -75,7 +75,7 @@ LEADERSHIP EXPERIENCE
 ------
 * **Mandarin Debate Team of CUHK - Captain** (April, 2020 - May, 2021)
   * Coordinated over 120 team members and managed team daily affairs. Be responsible for preparing for more than 10 international competitions and the 3 weekly training sessions of the team. As a member, read more than 20 relevant papers every week during the preparation period to quick-learning the field within one week.
-  * Initiated the New Media Group of the team to advertise the competition results and seek collaborations with other parties. The team received over 30,000 CNY from the corporate sponsors and companies which covered 80\% expenses of team members during the international competition trips and debate visits.
+  * Initiated the New Media Group of the team to advertise the competition results and seek collaborations with other parties. The team received over 30,000 CNY from the corporate sponsors and companies which covered 80% expenses of team members during the international competition trips and debate visits.
 
 * **2021 Exemplar Tournament Freshman Mandarin Debate Competition - Founder** (March, 2021 - May, 2021)
    * Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition as the first international Mandarin debate competition initiated by CUHK. The competition received more than 14,000 HKD as support from the university. The results of the competition were displayed on the homepage of the CUHK Office of Student Affairs.
