@@ -14,7 +14,8 @@ EDUCATION
 ------
 * **Bachelor of Science** in Mathematics and Information Engineering
   * The Chinese University of Hong Kong (CUHK), Sep. 2019- Sep. 2023 (expected)
-  * Cumulative GPA: **3.737**/4.000; IE Major GPA **3.937/**4.000; Ranking: **Top 3% **among MIEG students admitted in 2019-20.
+  * Cumulative GPA: **3.737**/4.000; IE Major GPA **3.937/**4.000.
+  * Ranking: **Top 3%** among MIEG students admitted in 2019-20.
 * **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT)
 * **Relevant Courses:**
   * Computer Science and Information Science: Data Structure, Introduction to AI (MIE369, UoT), Design and Analysis of Algorithms (ECE345, UoT), Signals and Systems, Network Coding Theory (Grad Level), Computer Networks.  
@@ -26,7 +27,7 @@ RESEARCH EXPERIENCE
 ------
 * **Expressive Equivariant Subgraph Aggregation Network** (Sep. 2022 - Present)
   * Final Year Project Supervised by Professor Irwin King (CUHK).
-  * PProposed subgraph sampling strategies based on Weisfeiler-Lehman similarity and subtree kernel for equivariant subgraph aggregation network to improve the expressive power and the scalability of the network. ([report](https://drive.google.com/file/d/177v-7mRXS-MCCpumMMaCQgZ7eCc-5KJL/view?usp=share_link) | [code](https://github.com/YistYU/ESAN_WLS.git)]) 
+  * Proposed subgraph sampling strategies based on Weisfeiler-Lehman similarity and subtree kernel for equivariant subgraph aggregation network to improve the expressive power and the scalability of the network. 
   * Conducted thorough experiments which showed that this efficient strategy outperformed the second best subgraph sampling strategy on graph classification up to 3\% on TU datasets. The draft of this work is progressing and will catch IJCAI 2023.
 
 * **Projection Robust Unbalanced Optimal Transport** (Feb. 2022 - Present)
