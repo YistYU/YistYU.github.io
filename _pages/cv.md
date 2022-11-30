@@ -22,8 +22,15 @@ EDUCATION
 * **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT), 2021-22.
 * Ranked **top 0.4%** among 163,000 science students} in the National College Entrance Exam.
 * **Relevant Courses:**
-  * Computer Science and Information Science: Data Structure, Introduction to AI (MIE369, UoT), Design and Analysis of Algorithms (ECE345, UoT), Signals and Systems, Network Coding Theory (Grad Level), Computer Networks.  
-  * Mathematics: Linear Algebra, Mathematics Analysis, Differentiation Analysis, Probability Theory, Complex Variables with Applications, Ordinary Differential Equation, Discrete Mathematics, Algebraic Structures, Stochastic Process.
+  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms \& Data Structure (A-), Signals and Systems (A), Computer Networks (A), Network Coding Theory (Postgraduate, A).  
+  * Mathematics: Linear Algebra (A), Probability Theory (A), Ordinary Differential Equation (UoT, A), Discrete Mathematics (A), Multivariable Calculus (A), Algebraic Structures (A-).
+
+
+PREPRINTS
+------
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 RESEARCH EXPERIENCE
@@ -31,17 +38,17 @@ RESEARCH EXPERIENCE
 * **Expressive Equivariant Subgraph Aggregation Network** (Sep. 2022 - Present)
   * Final Year Project Supervised by Professor Irwin King (CUHK).
   * Proposed subgraph sampling strategies based on Weisfeiler-Lehman similarity and subtree kernel for equivariant subgraph aggregation network to improve the expressive power and the scalability of the network. 
-  * Conducted thorough experiments which showed that this strategy outperformed state-of-the-art sampling strategies on graph classification by 3% on TU datasets. It further reduces the space complexity up to 55% on dataset IMDB-MULTI compared to the second best strategy. The draft is in progress and will be submitted to IJCAI 2023. \[[Thesis](https://YistYU.github.io/files/FYP_Thesis.pdf)\]
+  * Conducted thorough experiments which showed that this strategy outperformed state-of-the-art sampling strategies published at ICLR 2022 on graph classification by 3% on TU datasets. It further reduces the space complexity up to 55% on dataset IMDB-MULTI and reduces 10-20% training time on dataset NCI1 compared to the second best strategy. \[[Thesis](https://YistYU.github.io/files/FYP_Thesis.pdf)\]
 
 * **Projection Robust Unbalanced Optimal Transport** (Feb. 2022 - Present)
   * Research Assistant to Professor Ma Shiqian (University of California, Davis)
-  * Presented the projection robust unbalanced optimal transport model (PRUOT) that has the potential to alleviate the curse of dimensionality for computing the Wasserstein distance between unbalanced distributions.
+  * Presented a new model called projection robust unbalanced optimal transport (PRUOT) to alleviate the curse of dimensionality for computing the Wasserstein distance between unbalanced distributions.
   * Illustrated a Riemmanian optimization algorithm RGAS-UOT for solving this model and proved its finite-time convergence to obtain the stationary point. Numerical experiments on both synthetic datasets and real-world datasets were given to demonstrate the advantages of the PRUOT model in high-dimensional cases. **The work was presented in Preprint [4]**.
 
 * **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June. 2021 -- Present)
   * Research Assistant to Professor Li Yu (CUHK)
   * Presented **scMinerva**, an unsupervised framework for single-cell multi-omics integration. We propose a novel random walk strategy **omics2vec** that can flexibly "jump" among different omics and utilize information from the informative omics.
-  * Conducted extensive experiments to evaluate the proposed method. scMinerva achieves superior classification performance among the seven state-of-the-art unsupervised methods and improves the classification accuracy by 7% on average. **The work was presented in Preprint [3] and planned to submit to KDD 2023.**
+  * scMinerva achieved superior classification performance among 7 state-of-the-art methods on 6 real-world datasets and improved  classification accuracy up to 20\% on dataset GSE128639 when classifying to 27 classes. 
   * **Best Project Award for Summer Research Internship of CUHK, 2020-21 (Top 10% out of 97 students and 46 projects)**.
 
 
@@ -51,11 +58,6 @@ RESEARCH EXPERIENCE
   * Revisited the basic assumptions for classic Zyablov Bound from coding theory and information theory, and examined them from classic channels to general adversarial various channels which are more practical in real-life transmissions.
 
 
-PREPRINTS
-------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ACADEMIC AWARDS AND SCHOLARSHIPS
 ------
