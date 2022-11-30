@@ -48,7 +48,7 @@ RESEARCH EXPERIENCE
 * **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June. 2021 -- Present)
   * Research Assistant to Professor Li Yu (CUHK)
   * Presented **scMinerva**, an unsupervised framework for single-cell multi-omics integration. We propose a novel random walk strategy **omics2vec** that can flexibly "jump" among different omics and utilize information from the informative omics.
-  * scMinerva achieved superior classification performance among 7 state-of-the-art methods on 6 real-world datasets and improved  classification accuracy up to 20\% on dataset GSE128639 when classifying to 27 classes. 
+  * scMinerva achieved superior classification performance among 7 state-of-the-art methods on 6 real-world datasets and improved  classification accuracy up to 20% on dataset GSE128639 when classifying to 27 classes. 
   * **Best Project Award for Summer Research Internship of CUHK, 2020-21 (Top 10% out of 97 students and 46 projects)**.
 
 
