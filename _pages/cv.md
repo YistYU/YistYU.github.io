@@ -45,14 +45,14 @@ RESEARCH EXPERIENCE
   * Presented a new model called projection robust unbalanced optimal transport (PRUOT) to alleviate the curse of dimensionality for computing the Wasserstein distance between unbalanced distributions.
   * Illustrated a Riemmanian optimization algorithm RGAS-UOT for solving this model and proved its finite-time convergence to obtain the stationary point. Numerical experiments on both synthetic datasets and real-world datasets were given to demonstrate the advantages of the PRUOT model in high-dimensional cases. **The work was presented in Preprint [4]**.
 
-* **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June. 2021 -- Present)
+* **Multi-omics Integration with Random Walk and Graph Convolutional Network** (June, 2021 -- Present)
   * Research Assistant to Professor Li Yu (CUHK)
   * Presented **scMinerva**, an unsupervised framework for single-cell multi-omics integration. We propose a novel random walk strategy **omics2vec** that can flexibly "jump" among different omics and utilize information from the informative omics.
   * scMinerva achieved superior classification performance among 7 state-of-the-art methods on 6 real-world datasets and improved  classification accuracy up to 20% on dataset GSE128639 when classifying to 27 classes. 
   * **Best Project Award for Summer Research Internship of CUHK, 2020-21 (Top 10% out of 97 students and 46 projects)**.
 
 
-* **Zyablov Bound in General Adversarial Various Channel** (June. 2020 -- Sep. 2020)
+* **Zyablov Bound in General Adversarial Various Channel** (June, 2020 -- Sep. 2020)
   * Research Assistant to Professor Sidharth Jaggi (CUHK).
   * Worked on extending Zyablov Bound which is based on concetenated code to the general adversarial various channels.
   * Revisited the basic assumptions for classic Zyablov Bound from coding theory and information theory, and examined them from classic channels to general adversarial various channels which are more practical in real-life transmissions.
@@ -80,7 +80,7 @@ LEADERSHIP EXPERIENCE
   * Prepared over 9 hours of weekly debate training material for 120+ team members and handled logistics for team registration and participation in 10+ international competitions.
   * Launched the team PR group to advertise the competition results and liaise with other parties for collaborations. Fund-raised over 30,000 CNY from corporate sponsors for international competition trips and debate visits.
 
-* **2021 Exemplar Tournament Freshman Mandarin Debate Competition - Founder** (March, 2021 - May, 2021)
+* **2021 Exemplar Tournament Freshman Mandarin Debate Competition - Founder** (Mar. 2021 - May, 2021)
    * Founded the "Exemplar Tournament" Freshman Mandarin Debate Competition as the first international Mandarin debate competition initiated by CUHK. The competition received more than 14,000 HKD as funding from CUHK. The results of the competition was widely advertised on the CUHK Office of Student Affairs homepage.
    * Drafted the Tournament Regulations, resolved multiple emergencies during the 2-month competition period, and organized team registration for more than 50 universities and debate clubs all over the world.
 
@@ -98,10 +98,10 @@ COMMUNITY CONTRIBUTIONS
   
 EXTRA-CURRICULUM AWARDS
 ------
-* **The 1st FENGYE Cup Virtual Chinese Debating (32 teams)** (Mar. 2020 - May 2020)
+* **The 1st FENGYE Cup Virtual Chinese Debating (32 teams)** (Mar. 2020 - May, 2020)
   * Champion; "Best Debater Award for the Competition".
 
-* **2020 HANGZHOU Mandarin Debate Grand Prix (256 teams)** (Jan. 2020 - Mar. 2020)
+* **2020 HANGZHOU Mandarin Debate Grand Prix (256 teams)** (Jan. 2020 - Mar, 2020)
   * "Best Debater Award Among All the Teams" in Hong Kong area
 
 * **The Thirteenth XINWEI-HUAXIA Mandarin Debate World Cup (48 teams)** (Sep. 2020)
