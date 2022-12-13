@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I am a senior undergraduate student at **the Chinese University of Hong Kong**, pursuing a major in **Mathematics and Information Engineering**. My current research interest lies in machine learning and empower it with information theory, graph theory and optimization. I love the intuitivity of graphs, probabilitistic models, randomness and coding. 
+I am a senior undergraduate student at **the Chinese University of Hong Kong**, pursuing a major in **Mathematics and Information Engineering**. My current research interest lies in machine learning and and using tools from information theory, graph theory, group theory and optimization. I love the intuitivity of graphs, probabilitistic models, randomness and coding. 
 
 My short-term goal is to develop new machine learning methods, specifically graph neural networks, with non-trivial theoretical guarantees to resolve practical computational problems. My long-term goal is to build on the intersection between graph neural networks, classic information theory and network coding theory, all of whose architectures are sharing very similar network structures. 
 
