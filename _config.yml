@@ -91,11 +91,11 @@ analytics:
 author:
   name             : "Tingyang YU (Yist)"
   avatar           : "profile.jpg"
-  bio              : "不营造字句，不和梦交易，不被时间、欢乐和逆境触动的核心" 
+  bio              : "不被时间、欢乐和逆境触动的核心" 
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1Cw8oZ4AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=1Cw8oZ4AAAAJ"
   email            :  "tyyistyu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
