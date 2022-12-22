@@ -109,10 +109,8 @@ EXTRA-CURRICULUM AWARDS
 
 
 
-SKILLS & MISC.
+SKILLS
 ------
 * **Language**: English (Speaking 7.5, Overall 7.5), Mandarin (Native), Cantonese (Fluent).
-* **Programming**:  Matlab, Java, C, R, Python \{Pytorch, Tensorflow, NetworkX, Pandas, Numpy, sklearn\}.}
+* **Programming**:  Matlab, Java, C, R, Python \{Pytorch, Tensorflow, NetworkX, Pandas, Numpy, sklearn\}.
 * **Tools**: LaTeX, Linux, Anaconda, Git, MongoDB, Docker.
-* **Hobbies**: Writing, songwriting, swimming, running, bodybuilding.
-
