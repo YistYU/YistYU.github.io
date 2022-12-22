@@ -22,7 +22,7 @@ EDUCATION
 * **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT), 2021-22.
 * Ranked **top 0.4%** among 163,000 science students} in the National College Entrance Exam.
 * **Relevant Courses:**
-  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Computer Networks (A), Network Coding Theory (Postgraduate, A).  
+  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Computer Networks (A), Information and Software Engineering Practice (A), Introduction to Systems Programming (A), Network Coding Theory (Postgraduate, Undertaking).
   * Mathematics: Linear Algebra (A), Probability Theory (A), Ordinary Differential Equation (UoT, A), Discrete Mathematics (A), Multivariable Calculus (A), Algebraic Structures (A-).
 
 
