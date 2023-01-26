@@ -22,7 +22,7 @@ EDUCATION
 * **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT), 2021-22.
 * Ranked **top 0.4%** among 163,000 science students} in the National College Entrance Exam.
 * **Relevant Courses:**
-  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Computer Networks (A), Information and Software Engineering Practice (A), Introduction to Systems Programming (A), Network Coding Theory (Postgraduate, A-).
+  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Network Coding Theory (Postgraduate, A-), Computer Networks (A), Applied Cryptography (Postgraduate, Ongoing).
   * Mathematics: Linear Algebra (A), Probability Theory (A), Ordinary Differential Equation (UoT, A), Discrete Mathematics (A), Multivariable Calculus (A), Algebraic Structures (A-).
 
 
@@ -35,7 +35,7 @@ PREPRINTS
 
 RESEARCH EXPERIENCE
 ------
-* **Expressive Equivariant Subgraph Aggregation Network** (Sep. 2022 - Present)
+* **Subgraph Augmentation for Graph Neural Networks** (Sep. 2022 - Present)
   * Final Year Project Supervised by Professor Irwin King (CUHK).
   * Proposed subgraph sampling strategies based on Weisfeiler-Lehman similarity and subtree kernel for equivariant subgraph aggregation network to improve the expressive power and the scalability of the network. 
   * Conducted thorough experiments which showed that this strategy outperformed state-of-the-art sampling strategies published at ICLR 2022 on graph classification by 3% on TU datasets. It further reduced the space complexity up to 55% on dataset IMDB-MULTI and 10-20% training time on dataset NCI1 compared to the second best strategy. \[[Thesis](https://YistYU.github.io/files/FYP_Thesis.pdf)\]
