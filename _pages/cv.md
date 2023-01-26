@@ -17,12 +17,12 @@ EDUCATION
 ------
 * **Bachelor of Science** in Mathematics and Information Engineering
   * The Chinese University of Hong Kong (CUHK), Sep. 2019- Sep. 2023 (expected)
-  * Cumulative GPA: **3.737**/4.000; Information Engineering Major GPA **3.937**/4.000.
+  * Cumulative GPA: **3.743**/4.000; Information Engineering Major GPA **3.937**/4.000.
   * Ranked **top 3%** among MIEG students admitted in 2019-20.
 * **Term Exchange** Winter semester exchange program in Faculty of Applied Science & Engineering, University of Toronto (UoT), 2021-22.
 * Ranked **top 0.4%** among 163,000 science students} in the National College Entrance Exam.
 * **Relevant Courses:**
-  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Computer Networks (A), Information and Software Engineering Practice (A), Introduction to Systems Programming (A), Network Coding Theory (Postgraduate, Ongoing).
+  * Computer Science and Informatics: Introduction to AI (UoT, A-), Algorithms & Data Structure (A-), Signals and Systems (A), Computer Networks (A), Information and Software Engineering Practice (A), Introduction to Systems Programming (A), Network Coding Theory (Postgraduate, A-).
   * Mathematics: Linear Algebra (A), Probability Theory (A), Ordinary Differential Equation (UoT, A), Discrete Mathematics (A), Multivariable Calculus (A), Algebraic Structures (A-).
 
 
