@@ -26,7 +26,7 @@ EDUCATION
   * Mathematics: Linear Algebra (A), Probability Theory (A), Ordinary Differential Equation (UoT, A), Discrete Mathematics (A), Multivariable Calculus (A), Algebraic Structures (A-).
 
 
-PREPRINTS
+PUBLICATIONS AND PREPRINTS
 ------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
