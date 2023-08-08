@@ -16,7 +16,7 @@ Hi, I am Yist! I will start my PhD journey at **École polytechnique fédérale 
 
 2. I am fascinated by the intersection of machine learning and classical information theory. I am extremely curious on researching the capability of neural networks by classical theories.
 
-It is my great honor to work closely with many respectful professors and have the chance to learn from them. I have worked with Professor Sidharth Jaggi on Information Theory and Coding Theory, Professor Li Yu on Artificial Intelligence and Biomedicine, Professor Ma Shiqian on Riemannian Optimization and Optimal Transport, and Professor Irwin King on Graph Neural Networks. I also received numerous support and help from Professor Chandra Nair, the director of my pragramme, throughout my undergraduate study. 
+It is my great honor to work closely with many respectful professors and have the chance to learn from them. I have worked with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) on Information Theory and Coding Theory, [Professor Li Yu](https://liyu95.com/) on Artificial Intelligence and Biomedicine, [Professor Ma Shiqian](https://sqma.rice.edu/) on Riemannian Optimization and Optimal Transport, and [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on Graph Neural Networks. I also luckily received numerous support from [Professor Chandra Nair](http://chandra.ie.cuhk.edu.hk/), the director of my pragramme, throughout my undergraduate study. 
 
 My greatest thanks and respect to all of them!
 
