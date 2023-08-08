@@ -16,7 +16,9 @@ Hi, I am Yist! I will start my PhD journey at **École polytechnique fédérale 
 
 2. I am fascinated by the intersection of machine learning and classical information theory. I am extremely curious on researching the capability of neural networks by classical theories.
 
+
 [Download CV here (last update: August 2023)](https://YistYU.github.io/files/CV.pdf)
+
 
 It is my great honor to work closely with many respectful professors and have the chance to learn from them. In chronological order, I have worked with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) on Information Theory and Coding Theory, [Professor Li Yu](https://liyu95.com/) on Artificial Intelligence and Biomedicine, [Professor Ma Shiqian](https://sqma.rice.edu/) on Riemannian Optimization and Optimal Transport, and [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on Graph Neural Networks. I also luckily received numerous support from [Professor Chandra Nair](http://chandra.ie.cuhk.edu.hk/), the director of my pragramme, throughout my undergraduate study. 
 
