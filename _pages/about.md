@@ -20,7 +20,7 @@ I am always open for collaborations and more than willing to talk with people on
 
 ## Research Interest 
 
-My current research interest lies in machine learning, graph algorithms and using tools from optimization, geometry and graph theory. I love graph, probabilistic model and randomness. **For my motivating research philosophy, I hope to present non-human-centered research what could benefit other species, the eco-system and the whole earth.** To be more technically specific: 
+My current research interest lies in machine learning, graph algorithms and using tools from optimization, geometry and graph theory. I love graph, probabilistic model and randomness. **For my motivating research philosophy, I hope to present nonhuman-centered research what could benefit all the species, the eco-system and the whole earth.** To be more technically specific: 
 
 1. I enjoy working on developing novel machine learning methods and graph algorithms with solid theoretical guarantee that can tackle practical computational challenge (that I care about and believe its importance). 
 
@@ -29,7 +29,7 @@ My current research interest lies in machine learning, graph algorithms and usin
 
 ## Research Experience
 
-Prior to joining EPFL, I had explored various interesting topics which seem not so relevant. But actually, these topics connect with each other and jointly led me to start my wonderful journey at EPFL.  
+Prior to joining EPFL, I had explored various interesting topics which seem not so relevant. But actually, these topics connect with each other and jointly guide me to my current stage.   
 
 My first research exposure was with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) in my freshman year. In this project, I learnt about classical Information Theory and Coding Theory, and worked on extending Zyablov Bound to general adversarial various channels. In my sophomore year, I joined [Professor Li Yu](https://liyu95.com/)’s research group where we worked on the single-cell multi-omics integration problem. Our model **scMinerva** turned into my first-authorship paper and won the Best Project Award among 46 undergraduate projects. In my junior year, I joined [Professor Ma Shiqian](https://sqma.rice.edu/)’s research group at the University of California, Davis to work on Optimization, funded by the highly competitive [Professor Charles K. Kao Research Exchange Scholarship](https://www.erg.cuhk.edu.hk/erg/ResearchExchangeScheme). In this research, we presented a new model on the Projection Robust Wasserstein distance in unbalanced optimal transport. For my final year project, I worked with [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on improving the expressive power of subgraph aggregation network at the graph classification level. We presented a new graph sampling strategy for graph aggregation network based on Weisfeiler-Lehman similarity. 
 
