@@ -10,17 +10,32 @@ redirect_from:
 
 ---
 
-Hi, I am Yist! I will start my PhD journey at **École polytechnique fédérale de Lausanne** this September where I luckily received the [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/). Before that, I obtained my Bachelor of Science degree at **the Chinese University of Hong Kong** major in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/). My current research interest lies in machine learning, graph algorithms and using tools from optimization, geometry and graph theory. I love the intuitivity of graphs, probabilistic model, discrete math, randomness and coding. To be more specific: 
+Hi, I am Yist! I am a PhD student working on machine learning and biomedicine at [**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/about/). I luckily received the [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/) and am now advised by **Prof. Maria Brbic** at the [**MLBio lab**](https://brbiclab.epfl.ch/). I am recently working on developing ML/AI models to analyze single cells (gene expressions, multi-omics data, spatial data, etc.). 
 
-1. I enjoy working on developing novel machine learning methods and graph algorithms with solid theoretical guarantee that can tackle practical computational challenges. 
+Before moving to Switzerland, I obtained my Bachelor of Science degree with First Class Honor at **the Chinese University of Hong Kong** and majored in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/). 
 
-2. I am fascinated by the intersection of machine learning and classical information theory. I am extremely curious on researching the capability of neural networks by classical theories.
-
-
-[Download CV here (last update: August 2023)](https://YistYU.github.io/files/CV.pdf)
+I am always open for collaborations and more than willing to talk with people on possible ideas! If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!  
 
 
-I worked with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) on Information Theory and Coding Theory, [Professor Li Yu](https://liyu95.com/) on Artificial Intelligence and Biomedicine, [Professor Ma Shiqian](https://sqma.rice.edu/) on Riemannian Optimization and Optimal Transport, and [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on Graph Neural Networks. I also luckily received numerous support from [Professor Chandra Nair](http://chandra.ie.cuhk.edu.hk/), the director of my pragramme, throughout my undergraduate study. It is my great honor to work closely with these respectful professors and have the chance to learn from them.
+## Research Interest 
 
-<!-- I as currently working on (1) **Optimization** about Optimal Transport and Riemannian Optimization under the supervision of [Prof. Shiqian Ma](https://www.math.ucdavis.edu/~sqma/) at UC Davis (now at Rice University)  and (2) **Graph Neural Network** about the data augmentation for Hyperbolic GNNs and Equivariant GNNs supervised by [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Yu Li](https://liyu95.com/) as my final year project. Last year, I did a research project on **Bioinformatics and Artificial Intelligence** supervised by [Prof. Yu Li](https://liyu95.com/) at CUHK. In that project, I developed a new random walk strategy on heterogeneous graph featured GCN to integrate multi-omics data at the single-cell level. Before that, I worked with [Prof. Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) at CUHK (now at University of Bristol) on **Information Theory**. In that project, I worked on the extension of Zyablov Bound which is based on concetenated code under general adversarial various channel. -->
+My current research interest lies in machine learning, graph algorithms and using tools from optimization, geometry and graph theory. I love graph, probabilistic model and randomness. **For my motivating research philosophy, I hope to present non-human-centered research what could benefit other species, the eco-system and the whole earth.** To be more technically specific: 
 
+1. I enjoy working on developing novel machine learning methods and graph algorithms with solid theoretical guarantee that can tackle practical computational challenge (that I care about and believe its importance). 
+
+2. I am fascinated by the intersection of machine learning and classical information/coding theory. I am extremely curious on researching the capability of neural networks by classical theories.
+
+
+## Research Experience
+
+Prior to joining EPFL, I had explored various interesting topics which seem not so relevant. But actually, these topics connect with each other and jointly led me to start my wonderful journey at EPFL.  
+
+My first research exposure was with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) in my freshman year. In this project, I learnt about classical Information Theory and Coding Theory, and worked on extending Zyablov Bound to general adversarial various channels. 
+
+In my sophomore year, I joined [Professor Li Yu](https://liyu95.com/)’s research group where we worked on the single-cell multi-omics integration problem. Our model **scMinerva** turned into my first-authorship paper and won the Best Project Award among 46 undergraduate projects. 
+
+In my junior year, I joined [Professor Ma Shiqian](https://sqma.rice.edu/)’s research group at the University of California, Davis to work on Optimization, funded by the highly competitive [Professor Charles K. Kao Research Exchange Scholarship](https://www.erg.cuhk.edu.hk/erg/ResearchExchangeScheme). In this research, we presented a new model on the Projection Robust Wasserstein distance in unbalanced optimal transport. 
+
+For my final year project, I worked with [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on improving the expressive power of subgraph aggregation network at the graph classification level. We presented a new graph sampling strategy for graph aggregation network based on Weisfeiler-Lehman similarity. 
+
+I also luckily received numerous help and guidence from [Professor Chandra Nair](http://chandra.ie.cuhk.edu.hk/), the director of my pragramme, throughout my undergraduate study. It is my great honor to work closely with these respectful professors and have the chance to learn from them.
