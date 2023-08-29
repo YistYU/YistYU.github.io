@@ -16,6 +16,7 @@ Before moving to Switzerland, I obtained my Bachelor of Science degree with Firs
 
 I am always open for collaborations and more than willing to talk with people on possible ideas! If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!  
 
+[Download CV here (Last update: Aug. 2023)](https://YistYU.github.io/files/CV.pdf)
 
 ## Research Interest 
 
@@ -30,12 +31,6 @@ My current research interest lies in machine learning, graph algorithms and usin
 
 Prior to joining EPFL, I had explored various interesting topics which seem not so relevant. But actually, these topics connect with each other and jointly led me to start my wonderful journey at EPFL.  
 
-My first research exposure was with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) in my freshman year. In this project, I learnt about classical Information Theory and Coding Theory, and worked on extending Zyablov Bound to general adversarial various channels. 
-
-In my sophomore year, I joined [Professor Li Yu](https://liyu95.com/)’s research group where we worked on the single-cell multi-omics integration problem. Our model **scMinerva** turned into my first-authorship paper and won the Best Project Award among 46 undergraduate projects. 
-
-In my junior year, I joined [Professor Ma Shiqian](https://sqma.rice.edu/)’s research group at the University of California, Davis to work on Optimization, funded by the highly competitive [Professor Charles K. Kao Research Exchange Scholarship](https://www.erg.cuhk.edu.hk/erg/ResearchExchangeScheme). In this research, we presented a new model on the Projection Robust Wasserstein distance in unbalanced optimal transport. 
-
-For my final year project, I worked with [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on improving the expressive power of subgraph aggregation network at the graph classification level. We presented a new graph sampling strategy for graph aggregation network based on Weisfeiler-Lehman similarity. 
+My first research exposure was with [Professor Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi) in my freshman year. In this project, I learnt about classical Information Theory and Coding Theory, and worked on extending Zyablov Bound to general adversarial various channels. In my sophomore year, I joined [Professor Li Yu](https://liyu95.com/)’s research group where we worked on the single-cell multi-omics integration problem. Our model **scMinerva** turned into my first-authorship paper and won the Best Project Award among 46 undergraduate projects. In my junior year, I joined [Professor Ma Shiqian](https://sqma.rice.edu/)’s research group at the University of California, Davis to work on Optimization, funded by the highly competitive [Professor Charles K. Kao Research Exchange Scholarship](https://www.erg.cuhk.edu.hk/erg/ResearchExchangeScheme). In this research, we presented a new model on the Projection Robust Wasserstein distance in unbalanced optimal transport. For my final year project, I worked with [Professor Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) on improving the expressive power of subgraph aggregation network at the graph classification level. We presented a new graph sampling strategy for graph aggregation network based on Weisfeiler-Lehman similarity. 
 
 I also luckily received numerous help and guidence from [Professor Chandra Nair](http://chandra.ie.cuhk.edu.hk/), the director of my pragramme, throughout my undergraduate study. It is my great honor to work closely with these respectful professors and have the chance to learn from them.
