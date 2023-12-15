@@ -16,7 +16,7 @@ Before moving to Switzerland, I obtained my Bachelor of Science degree with Firs
 
 I am always open for collaborations and more than willing to talk with people on possible ideas! **If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!**
 
-[Download CV here (Last update: . 2023)](https://YistYU.github.io/files/CV.pdf)
+[Download CV here (Last update: Dec. 2023)](https://YistYU.github.io/files/CV.pdf)
 
 ## Research Interest 
 
