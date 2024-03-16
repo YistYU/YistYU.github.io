@@ -15,11 +15,11 @@ Hi, I am Yist! I am a PhD student working on machine learning and biomedicine at
 Before moving to Switzerland, I obtained my Bachelor of Science degree with First Class Honor at **the Chinese University of Hong Kong** and majored in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/). 
 
 I am always open for collaborations and more than willing to talk with people on possible ideas! **If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!**
-
+<p style="font-style: italic;">
 <p>
   <span style="color:darkred;">Start from Mar. 2024: I dedicate 2-3 hours weekly to mentoring female students within my fields.</span>  Please send me a message if you think I may could give some advice on your project or your future study plan! Connecting with more female researchers is something I always look forward to. TOGETHER WE RISE!
 </p>
-
+</p> 
 [Download CV here (Last update: Dec. 2023)](https://YistYU.github.io/files/CV.pdf)
 
 ## Research Interest 
