@@ -10,23 +10,24 @@ redirect_from:
 
 ---
 
-Hi, I am Yist! I am a PhD student working on machine learning and biomedicine at [**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/about/). I luckily received the [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/) and am now advised by **Prof. Maria Brbic** at the [**MLBio lab**](https://brbiclab.epfl.ch/). I am recently engaged in the advanced development of machine learning and AI models, focusing on single-cell analysis, including gene expression profiles, multi-omics data, and spatial transcriptomics, to extract critical biological insights.
+Hi, I am Yist! I am a PhD student working on machine learning and computational biolgoy at [**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/about/). I received the [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/) and am now advised by **Prof. Maria Brbic** at the [**MLBio lab**](https://brbiclab.epfl.ch/). I am recently engaged in the advanced development of machine learning and AI models, focusing on single-cell analysis, including gene expression profiles, multi-omics data, and spatial transcriptomics, to extract critical biological insights.
 
 Before moving to Switzerland, I obtained my Bachelor of Science degree with First Class Honor at **the Chinese University of Hong Kong** and majored in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/). 
 
 I am always open for collaborations and more than willing to talk with people on possible ideas! **If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!**
-<p style="font-style: italic;">
+
 <p>
-  <span style="color:darkred;">Start from Mar. 2024: I dedicate 2-3 hours weekly to mentoring female students within my fields.</span>  Please send me a message if you think I may could give some advice on your project or your future study plan! Connecting with more female researchers is something I always look forward to. TOGETHER WE RISE!
+  <span class="dark-red-text">Start from Mar. 2024: I dedicate 2-3 hours weekly to mentoring female students within my fields.</span> Should you desire guidance on your project or advice on your future academic pursuits, feel free to reach out to me. Connecting with more female scholars is something I always look forward to. TOGETHER WE RISE!
 </p>
-</p> 
+
+
 [Download CV here (Last update: Dec. 2023)](https://YistYU.github.io/files/CV.pdf)
 
 ## Research Interest 
 
 My current research interest lies in machine learning, graph algorithms and using tools from optimization, geometry and graph theory. I love graph, probabilistic model and randomness. **Central to my research philosophy is the aspiration to pioneer non-human-centered research, shifting the focus from traditional human-centric applications to broader domains.** To be more technically specific: 
 
-1. I am dedicated to developing solid machine learning methods and graph algorithms that are underpinned by robust theoretical foundations, aiming to address practical computational challenges that resonate with my interests and whose significance I firmly believe in.
+1. I am dedicated to developing solid machine learning methods and graph algorithms that are underpinned by robust theoretical foundations, aiming to address practical computational challenges that resonate with my interests.
 
 2. I am fascinated by the intersection of machine learning and classical information/coding theory. I am extremely curious on researching the capability of neural networks by classical theories.
 
