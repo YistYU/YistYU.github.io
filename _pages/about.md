@@ -17,8 +17,9 @@ Before moving to Switzerland, I obtained my Bachelor of Science degree with Firs
 I am always open for collaborations and more than willing to talk with people on possible ideas! **If you want to chat or do something amazing&interesting together, please always feel free to drop me an email!**
 
 <p>
-  <span class="dark-red-text">Start from Mar. 2024: I dedicate 2-3 hours weekly to mentoring female students within my fields.</span> Should you desire guidance on your project or advice on your future academic pursuits, feel free to reach out to me. Connecting with more female scholars is something I always look forward to. TOGETHER WE RISE!
+  <span style="color:darkred; font-weight:bold;">Start from Mar. 2024: I dedicate 2-3 hours weekly to mentoring female students within my fields.</span> Should you desire guidance on your project or advice on your future academic pursuits, feel free to reach out to me. Connecting with more female scholars is something I always look forward to. TOGETHER WE RISE!
 </p>
+
 
 
 [Download CV here (Last update: Dec. 2023)](https://YistYU.github.io/files/CV.pdf)
