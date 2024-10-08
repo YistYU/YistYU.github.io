@@ -29,7 +29,7 @@ Before moving to Switzerland, I earned my Bachelor of Science degree with First 
 
 
 
-## Curiosities
+## Interests
 
 Curiosity is the driving force behind my research, and the opportunity to collaborate with exceptional people is what fuels it even further! I am particularly curious about the following topics:
 
