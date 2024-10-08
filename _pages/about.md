@@ -22,28 +22,24 @@ Before moving to Switzerland, I earned my Bachelor of Science degree with First 
 ## News
 
 - **September 2024**: Excited to present our work, **LUNA**, at the **EcoCloud Annual Event** in Lausanne, the **Human Cell Atlas General Meeting 2024** in Milan, and **Single Cell Genomics 2024** in Greece! Stay tuned—our preprint is coming soon.
-
 - **August 2024**: Co-organizing the **AIDrugX** workshop at **NeurIPS 2024**. [Check out our website and submit your work!](https://sites.google.com/view/newmodality-aidrug/home)
-
 - **July 2024**: The abstract of our work **LUNA** was accepted as a poster at **Single Cell Genomics 2024**. See you in Greece!
-
 - **July 2024**: Successfully passed my candidacy exam on July 5th! Officially a PhD candidate—exciting times ahead!
-
 - **May 2024**: Thrilled to announce that two of our papers were accepted at **ICML 2024**!
 
 
 
 ## Curiosities
 
-Curiosity is the driving force behind my research, and the opportunity to collaborate with exceptional people is what fuels it even further!
+Curiosity is the driving force behind my research, and the opportunity to collaborate with exceptional people is what fuels it even further! I am particularly curious about the following topics:
 
-1. I'm fascinated by the cellular world—how single cells function, communicate, differentiate, teach, learn, and come together to form living organisms.
+1. Cellular world—how single cells function, communicate, differentiate, teach, learn, and come together to form living organisms.
 
-2. I love graphs and randomness.
+2. Graphs and randomness.
 
-3. I aim to shift my focus toward non-human-centered research, making my work more applicable to nature and wildlife. I'm particularly interested in studying social animal behavior or working on wildlife habitat protection.
+3. Non-human-centered research: benefit nature and wildlife, like social animal behavior and protecting natural habitats.
 
-4. I am intrigued by the intersection of machine learning and classical information/coding theory, and I'm eager to explore the potential of neural networks through classical theoretical frameworks.
+4. Intersection of machine learning and classical information/coding theories.
 
 ## Research Experience
 
