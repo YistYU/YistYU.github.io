@@ -16,9 +16,9 @@
 
 github                   : [metadata]
 locale                   : "en-US"
-title                    : "Tingyang YU (Yist)"
+title                    : "Yist YU"
 title_separator          : "-"
-name                     : &name "Tingyang YU (Yist)"
+name                     : &name "Yist"
 description              : &description "若幸运有点决心。"
 url                      : https://yistyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tingyang YU (Yist)"
+  name             : "Yist YU"
   avatar           : "profile.jpg"
   bio              : "\"The central heart that deals not in words, traffics not with dreams, and is untouched by time, by joy, by adversities.\"
                               - Jorge Luis Borges (1934)" 

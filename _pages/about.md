@@ -34,11 +34,8 @@ Before moving to Switzerland, I earned my Bachelor of Science degree with First 
 Curiosity is the driving force behind my research, and the opportunity to collaborate with exceptional people is what fuels it even further! I am particularly curious about the following topics:
 
 1. Cellular world—how single cells function, communicate, differentiate, teach, learn, and come together to form living organisms.
-
 2. Graphs and randomness.
-
 3. Non-human-centered research: benefit nature and wildlife, like social animal behavior and protecting natural habitats.
-
 4. Intersection of machine learning and classical information/coding theories.
 
 ## Research Experience
