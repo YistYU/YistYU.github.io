@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yist! I am a PhD student at [**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/about/), focusing on machine learning and computational biology. I am a recipient of the [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/) and am advised by **Prof. Maria Brbić** at the [**MLBio lab**](https://brbiclab.epfl.ch/). My research focuses on advancing AI models for single-cell analysis (encompassing gene expression profiles, multi-omics data, and spatial transcriptomics) while developing biology-inspired models that can contribute to the broader ML community.
+Hi, I'm Yist! I am a PhD student at [**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/about/), working on machine learning and computational biology. I received [**EDIC fellowship**](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-phd-students/) and am advised by **Prof. Maria Brbić** at the [**MLBio lab**](https://brbiclab.epfl.ch/). My research focuses on advancing AI models for single-cell analysis (gene expression profiles, multi-omics data, and spatial transcriptomics) while developing biology-inspired models that can contribute to the broader ML community.
 
 Before moving to Switzerland, I earned my Bachelor of Science degree with First Class Honors from the **Chinese University of Hong Kong**, majoring in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/).
 
