@@ -14,7 +14,7 @@ Hi, I'm Yist! I am a PhD student at [**École polytechnique fédérale de Lausan
 Before moving to Switzerland, I earned my Bachelor of Science degree with First Class Honors from the **Chinese University of Hong Kong**, majoring in [**Mathematics and Information Engineering**](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/).
 
 <p>
-  <span style="color:darkred; font-weight:bold;">Starting in March 2024, I dedicate 2-3 hours weekly to mentoring female students in my fields.</span> If you'd like someone to discuss your project or future academic plans with, feel free to reach out. TOGETHER WE RISE!
+  <span style="color:darkred; font-weight:bold;">I dedicate 2-3 hours weekly to mentoring female students in my fields.</span> If you'd like someone to discuss your project or future academic plans with, feel free to reach out. TOGETHER WE RISE!
 </p>
 
 [Download CV here (Last update: Oct. 2024)](https://YistYU.github.io/files/CV.pdf)
