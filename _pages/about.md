@@ -20,7 +20,7 @@ Before moving to Switzerland, I earned my Bachelor of Science degree with First 
 [Download CV here (Last update: Oct. 2024)](https://YistYU.github.io/files/CV.pdf)
 
 ## News
-
+- **October 2024**:: Began my role as Vice President for Women+ in IC at EPFL! Join us and feel free to reach out if you have ideas on how we can better promote women's presence in our community!
 - **September 2024**: Excited to present our work, **LUNA**, at the **EcoCloud Annual Event** in Lausanne, the **Human Cell Atlas General Meeting 2024** in Milan, and **Single Cell Genomics 2024** in Greece! Stay tuned—our preprint is coming soon.
 - **August 2024**: Co-organizing the **AIDrugX** workshop at **NeurIPS 2024**. [Check out our website and submit your work!](https://sites.google.com/view/newmodality-aidrug/home)
 - **July 2024**: The abstract of our work **LUNA** was accepted as a poster at **Single Cell Genomics 2024**. See you in Greece!
