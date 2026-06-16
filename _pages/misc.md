@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 
-* Writing is my most powerful tool for making sense of the world. 
-* I love staying physically active, especially when it involves building strength. 
-* **I am passionate about advocating for women's rights, LGBTQ+ rights, animal welfare, and civic engagement. If there is anything I can do to help, please don't hesitate to reach out to me.**
-* My ultimate life goal is to be a good academic, a positive activist, and a strong woman.
-
+* I write a lot, including lyrics for songs. 
+* I love staying physically active: hiking, swimming (sometimes in cold water), bouldering, diving, and trampolining.
+* **I'm passionate about advocating for women's rights, LGBTQ+ rights, animal welfare, and civic engagement. If there's anything I can do to help, please don't hesitate to reach out.**
+<!-- * My ultimate life goal is to be a good academic, a positive activist, and a strong woman.
+ -->
 
 
 
